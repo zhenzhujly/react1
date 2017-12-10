@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iBAAO;EACL,KAAK,EAAC,IAAI;EACV,MAAM,EAAC,IAAI;EACX,UAAU,EAAE,IAAI;;AAKhB,mBAAC;EACC,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,IAAI",
+"sources": ["components_roots.scss"],
+"names": [],
+"file": "components_roots.css"
+}
